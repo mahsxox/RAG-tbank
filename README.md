@@ -6,7 +6,7 @@
 
 ## Стек
 
-Python 3.12, Qdrant (гибридный поиск: dense + BM25), intfloat/multilingual-e5-small, fastembed (BM25 с русским стеммером), BAAI/bge-reranker-v2-m3, GigaChat API, PyMuPDF, LangChain (text splitting), Streamlit, Docker Compose.
+Python, Qdrant (гибридный поиск: dense + BM25), intfloat/multilingual-e5-small, fastembed (BM25 с русским стеммером), BAAI/bge-reranker-v2-m3, GigaChat API, PyMuPDF, LangChain (text splitting), Streamlit, Docker Compose.
 
 ## Данные
 
@@ -16,7 +16,7 @@ Python 3.12, Qdrant (гибридный поиск: dense + BM25), intfloat/mult
 
 ## Быстрый старт
 
-Нужны Docker с Compose v2 и ключ GigaChat API. Получить ключ: https://developers.sber.ru/docs/ru/gigachat/api/overview
+Нужны Docker Desktop и ключ GigaChat API. Получить ключ: https://developers.sber.ru/docs/ru/gigachat/api/overview
 
 ```bash
 git clone https://github.com/mahsxox/RAG-tbank.git
