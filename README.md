@@ -6,7 +6,7 @@
 
 ## Стек
 
-Python 3.11, Qdrant (гибридный поиск: dense + BM25), intfloat/multilingual-e5-small, fastembed (BM25 с русским стеммером), BAAI/bge-reranker-v2-m3, GigaChat API, PyMuPDF, LangChain (text splitting), Streamlit, Docker Compose.
+Python 3.12, Qdrant (гибридный поиск: dense + BM25), intfloat/multilingual-e5-small, fastembed (BM25 с русским стеммером), BAAI/bge-reranker-v2-m3, GigaChat API, PyMuPDF, LangChain (text splitting), Streamlit, Docker Compose.
 
 ## Данные
 
